@@ -4,7 +4,6 @@ from resources import Entry
 import os
 #FOLDER = '/tmp/'
 FOLDER = r'C:\Users\Alena\Desktop\spain'
-#https://voitixler.com/course/coding/todo-frontend/
 
 app = Flask(__name__)
 
